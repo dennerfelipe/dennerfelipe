@@ -1,7 +1,7 @@
 ### Personal Page 
 
 - 🇧🇷 I from Brazil! 
-- 💻 My personal notebook 2am e550 - i5 9400 - GTX 1050 - DDR4 16 GB RAM, dual boot SO (W10 and Ubuntu 20.04)
+- 💻 My personal notebook:  2am e550 - i5 9400 - GTX 1050 - DDR4 16 GB RAM, dual boot SO (W10 and Ubuntu 20.04)
 
 
  <div align="center">
@@ -17,7 +17,14 @@
   <img align="center" alt="Denner-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
+
+##
+
+# SO
+<div style="display: inline_block"><br>
+  <img align="center" alt="Denner-Ubuntu" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
+</div> 
+
 ##
  
 <div> 
