@@ -1,5 +1,7 @@
 ### Personal Page 
-
+<div align="center">
+ <img src="https://i.imgur.com/Iaqvbux.gif" width="40" height="40" />
+</div>
 - 🇧🇷 I from Brazil! 
 - 💻 My personal notebook:  2am e550 - i5 9400 - GTX 1050 - DDR4 16 GB RAM, dual boot SO (W10 and Ubuntu 20.04)
 
@@ -18,12 +20,21 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
+ ##
 
 # SO
 <div style="display: inline_block"><br>
   <img align="center" alt="Denner-Ubuntu" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
+    <img align="center" alt="Denner-Debian" height="30" width="30" src="https://www.debian.org/logos/openlogo-nd.svg">
 </div> 
+
+##
+ 
+# Materials Software
+<div style="display: inline_block"><br>
+  <img align="center" alt="Denner-SIESTA" height="30" width="55" src="https://departments.icmab.es/leem/siesta/SIESTA-logo-233x125.png">
+ 
+</div>  
 
 ##
  
