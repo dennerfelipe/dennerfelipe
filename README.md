@@ -1,15 +1,23 @@
 ### Personal Page 
+
 <div align="center">
  <img src="https://i.imgur.com/Iaqvbux.gif" width="40" height="40" />
 </div>
-- 🇧🇷!
-- CV: 
+<div align="center">
+🇧🇷
+<br> 
 - Tec. Redes de Computadores (IFPA)
+<br>
 - Física (UEPA), MSc. Electrical En.g (UFPA) and PhD. Student (UFPA). 
+<br>
 - Graduating in Electronic Eng. (UFSC)
+<br>
 - Data Eng. Carrefour Bank (DIO) - 114h
-
-- 💻 My personal notebook:  2am e550 - i5 9400 - GTX 1050 - DDR4 16 GB RAM, dual boot SO (W10 and Ubuntu 20.04)
+<br>
+- 💻 My personal notebook:  
+ <br>
+ 2am e550 - i5 9400 - GTX 1050 - DDR4 16 GB RAM, dual boot SO (W10 and Ubuntu 20.04)
+</div>
 
  <div align="center">
   <a href="https://github.com/dennerfelipe">
