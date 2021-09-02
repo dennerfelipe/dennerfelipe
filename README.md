@@ -13,6 +13,8 @@
 - Graduating in Electronic Eng. (UFSC)
 <br>
 - Data Eng. Carrefour Bank (DIO) - 114h
+ <br>
+- Cognizant Cloud Data Engineer (DIO) - 100h
 <br>
 - 💻 My personal notebook:  
  <br>
