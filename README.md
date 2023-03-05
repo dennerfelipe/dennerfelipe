@@ -8,7 +8,7 @@
 <br> 
 - Tec. Redes de Computadores (IFPA)
 <br>
-- Física (UEPA), MSc. Electrical En.g (UFPA) and PhD. Student (UFPA). 
+- Physics and PhD. in Electrical Eng. (UFPA). 
 <br>
 - Graduating in Electronic Eng. (UFSC)
 <br>
@@ -16,9 +16,6 @@
  <br>
 - Cognizant Cloud Data Engineer (DIO) - 100h
 <br>
-- 💻 My personal notebook:  
- <br>
- 2am e550 - i5 9400 - GTX 1050 - DDR4 16 GB RAM, dual boot SO (W10 and Ubuntu 20.04)
 </div>
 
  <div align="center">
